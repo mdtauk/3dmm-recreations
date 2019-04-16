@@ -11,6 +11,8 @@ In time I hope tools will be developed to create new angles for existing scenes,
 
 So here is a little repository for those interested in getting involved in this work.
 
+####If anyone is interested in helping out, it would be appreciated.####
+
 
 
 ## Updates:
